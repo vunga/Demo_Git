@@ -1,0 +1,9 @@
+<html>
+<head>
+	<title> training
+	</title>
+</head>
+<body>
+	<h2>hello nga </h2>
+</body>
+</html>
